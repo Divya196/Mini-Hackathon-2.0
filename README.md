@@ -16,14 +16,10 @@ what all the areas we need to primaryly looking into.
 
 I listed like: 
 
-1.Trends 
-
+1.Trends
 2. Consumer behaviour
-
 3.Competition 
-
 4. Policies
-
 5.Technology.
 
 Understanding the data , I got 5 excel data from the kaggle dataset, I am checking to get the insights of above list, which excel data i can refer. 
