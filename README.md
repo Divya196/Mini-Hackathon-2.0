@@ -72,12 +72,14 @@ We need to initiate in setting up more EV maker plant in Punjab, Haryana and UP 
 
 12.There are many small scale ev maker evolving in industries.
 
-13.List of Top Competitors in EV Market
-1.OLA ELECTRIC TECHNOLOGIES PVT LTD - Highest sales
-2.TVS MOTOR COMPANY LTD 
+13.List of Top Competitors in the EV industry.
+1.OLA ELECTRIC TECHNOLOGIES PVT LTD
+2.TVS MOTOR COMPANY LTD  
 3.ATHER ENERGY PVT LTD 
 4.HERO ELECTRIC VEHICLES PVT. LTD 
 5.BAJAJ AUTO LTD 
-6.OKINAWA AUTOTECH PVT LTD 
+6.OKINAWA AUTOTECH PVT LTD
 7.YC ELECTRIC VEHICLE 
-8.AMPERE VEHICLES PRIVATE LIMITED
+8.AMPERE VEHICLES PRIVATE LIMITED 
+
+14. In that top competitors list, manufacturing units are 3 from TamilNadu. From this ,we can assume TamilNadu will have more manufacturing units in future compared to other states.
