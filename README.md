@@ -3,14 +3,13 @@ Electric Vehicle (EV) Market Analysis
 
 In this Data Science challenge ,Dataset used : https://www.kaggle.com/datasets/srinrealyf/india-ev-market-data  
 
-SITUATION:
+#SITUATION:
 
-My task is to explore the India EV Market dataset and uncover valuable insights about the electric vehicle industry.
+      My task is to explore the India EV Market dataset and uncover valuable insights about the electric vehicle industry.
 
+#TASK:
 
-TASK:
-
-Before looking into the dataset, I studied about fundamental working principle of EV and fundamental of a business,
+      Before looking into the dataset, I studied about fundamental working principle of EV and fundamental of a business,
 
 what all the areas we need to primaryly looking into. 
 
@@ -45,7 +44,7 @@ The given data's are:
 3. Created line and bar charts visualization to show the trend and analysis using Matplotlib and seaborn
 
    
-#RESULTS
+#RESULTS:
 
 
 1.The demand for EVs changed after 2015 rapidly, the graph shows that the demand will be be high for upcoming years
